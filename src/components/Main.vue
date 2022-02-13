@@ -38,6 +38,13 @@ export default {
         .container{
             width: 1200px;
             margin: auto;
+            li{
+                padding: 30px;
+                background-color: grey;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
         }
 
     }
